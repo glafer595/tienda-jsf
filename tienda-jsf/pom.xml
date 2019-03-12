@@ -47,7 +47,7 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>Deploy maven project to tomcat example</finalName>
+        <finalName>tienda-jsf</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-war-plugin</artifactId>
